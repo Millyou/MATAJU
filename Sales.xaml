@@ -1,0 +1,56 @@
+﻿<Page x:Class="WpfApp2.Sales"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      mc:Ignorable="d"
+      Title="Sales">
+
+    <Grid>
+        <!-- 그리드 행 정의 -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- 필터 입력 및 조회 버튼 영역 -->
+            <RowDefinition Height="*"/>
+            <!-- 상품 목록 영역 -->
+            <RowDefinition Height="Auto"/>
+            <!-- 네비게이션 영역 -->
+        </Grid.RowDefinitions>
+
+        <!-- 그리드 열 정의 -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <!-- 첫 번째 열 (좌측 여백) -->
+            <ColumnDefinition Width="*"/>
+            <!-- 두 번째 열 (중앙 콘텐츠) -->
+            <ColumnDefinition Width="Auto"/>
+            <!-- 세 번째 열 (우측 여백) -->
+        </Grid.ColumnDefinitions>
+
+        <!-- 필터 입력 및 조회 버튼 -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="10" Grid.Row="0" Grid.Column="1">
+            <ComboBox x:Name="FilterComboBox" Width="200" Margin="0,0,10,0" SelectionChanged="OnFilterSelectionChanged"/>
+            <Button Content="조회" Click="OnSearchButtonClick"/>
+        </StackPanel>
+
+        <!-- 상품 목록 -->
+        <WrapPanel x:Name="ProductsWrapPanel" 
+           HorizontalAlignment="Center" 
+           VerticalAlignment="Center" 
+           Background="FloralWhite" 
+           Width="700" 
+           Height="150"
+           Grid.Row="1" 
+           Grid.Column="1">
+           
+            <!-- 상품 아이템이 동적으로 추가됩니다 -->
+        </WrapPanel>
+
+        <!-- 네비게이션 -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="10" Grid.Row="2" Grid.Column="1">
+            <Button x:Name="PreviousPageButton" Content="&lt;" Click="OnPreviousPageButtonClick" />
+            <TextBlock x:Name="PageNumberTextBlock" VerticalAlignment="Center" Margin="10" />
+            <Button x:Name="NextPageButton" Content="&gt;" Click="OnNextPageButtonClick" />
+        </StackPanel>
+    </Grid>
+</Page>

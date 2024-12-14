@@ -1,0 +1,92 @@
+﻿<Page x:Class="WpfApp2.ProgressStatus"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp2"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ProgressStatus">
+
+    <StackPanel Orientation="Vertical" VerticalAlignment="Top" Margin="10,30,10,10" Height="430">
+
+        <!-- 첫 번째 제목 및 조회 버튼 -->
+        <Grid Margin="0,0,0,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Text="▶ 예약 현황" FontSize="16" FontWeight="Bold" VerticalAlignment="Center" />
+            <Button x:Name="SalesInquirybtn" Content="조회" Width="80" Height="20" Grid.Column="1" HorizontalAlignment="Right" Margin="0,0,10,0" VerticalAlignment="Center" Click="SalesInquirybtn_Click" />
+        </Grid>
+
+        <!-- 첫 번째 DataGrid -->
+        <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" Height="120">
+            <DataGrid x:Name="SalesStatusGrid1"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  IsReadOnly="True"
+                  HeadersVisibility="All"
+                  HorizontalAlignment="Stretch"
+                  VerticalAlignment="Stretch">
+                <!-- 열 정의 -->
+                <DataGrid.ColumnHeaderStyle>
+                    <Style TargetType="DataGridColumnHeader">
+                        <Setter Property="HorizontalContentAlignment" Value="Center" />
+                    </Style>
+                </DataGrid.ColumnHeaderStyle>
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="고유번호" Binding="{Binding UniqueId}" Width="60"/>
+                    <DataGridTextColumn Header="지역" Binding="{Binding Region}" Width="150"/>
+                    <DataGridTextColumn Header="분양모델" Binding="{Binding Model}" Width="60"/>
+                    <DataGridTextColumn Header="수량" Binding="{Binding Quantity}" Width="60"/>
+                    <DataGridTextColumn Header="금액" Binding="{Binding Amount}" Width="100"/>
+                    <DataGridTextColumn Header="진행현황" Binding="{Binding Status}" Width="150"/>
+                    <DataGridTextColumn Header="비고" Binding="{Binding Remarks}" Width="150"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </ScrollViewer>
+
+        <!-- 두 번째 제목 및 조회 버튼 -->
+        <Grid Margin="0,10,0,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Text="▶ 구매 현황" FontSize="16" FontWeight="Bold" VerticalAlignment="Center" />
+            <Button x:Name="PurchaseInquiry" Content="조회" Width="80" Height="20" Grid.Column="1" HorizontalAlignment="Right" Margin="0,0,10,0" VerticalAlignment="Center" Click="PurchaseInquiry_Click" />
+        </Grid>
+
+        <!-- 두 번째 DataGrid -->
+        <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" Height="120">
+            
+            <DataGrid x:Name="SalesStatusGrid2"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  IsReadOnly="True"
+                  HeadersVisibility="All"
+                  HorizontalAlignment="Stretch"
+                  VerticalAlignment="Stretch">
+                <!-- 열 정의 -->
+
+                <DataGrid.ColumnHeaderStyle>
+                    <Style TargetType="DataGridColumnHeader">
+                        <Setter Property="HorizontalContentAlignment" Value="Center" />
+                    </Style>
+                </DataGrid.ColumnHeaderStyle>
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="고유번호" Binding="{Binding UniqueId}" Width="60"/>
+                    <DataGridTextColumn Header="지역" Binding="{Binding Region}" Width="150"/>
+                    <DataGridTextColumn Header="분양모델" Binding="{Binding Model}" Width="60"/>
+                    <DataGridTextColumn Header="수량" Binding="{Binding Quantity}" Width="60"/>
+                    <DataGridTextColumn Header="금액" Binding="{Binding Amount}" Width="100"/>
+                    <DataGridTextColumn Header="상태" Binding="{Binding Status}" Width="150"/>
+                    <DataGridTextColumn Header="비고" Binding="{Binding Remarks}" Width="150"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </ScrollViewer>
+    </StackPanel>
+
+</Page>

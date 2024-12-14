@@ -1,0 +1,78 @@
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\bin\Debug\net8.0-windows\WpfApp2.exe
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\bin\Debug\net8.0-windows\WpfApp2.deps.json
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\bin\Debug\net8.0-windows\WpfApp2.runtimeconfig.json
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\bin\Debug\net8.0-windows\WpfApp2.dll
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\bin\Debug\net8.0-windows\WpfApp2.pdb
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\obj\Debug\net8.0-windows\WpfApp2_Content.g.cs
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\obj\Debug\net8.0-windows\WpfApp2_MarkupCompile.cache
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.g.resources
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.AssemblyInfoInputs.cache
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.AssemblyInfo.cs
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.csproj.Up2Date
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.dll
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\obj\Debug\net8.0-windows\refint\WpfApp2.dll
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.pdb
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.genruntimeconfig.cache
+C:\Users\신종덕\Desktop\인프런자료\C#\실습자료\WpfApp2\obj\Debug\net8.0-windows\ref\WpfApp2.dll
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\Loginwin.baml
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\Signwin.baml
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\home_page.g.cs
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\Loginwin.g.cs
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\Signwin.g.cs
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\WpfApp2_Content.g.cs
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\WpfApp2_MarkupCompile.cache
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\WpfApp2_MarkupCompile.lref
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\bin\Debug\net8.0-windows\WpfApp2.exe
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\bin\Debug\net8.0-windows\WpfApp2.deps.json
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\bin\Debug\net8.0-windows\WpfApp2.runtimeconfig.json
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\bin\Debug\net8.0-windows\WpfApp2.dll
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\bin\Debug\net8.0-windows\WpfApp2.pdb
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\home_page.baml
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.g.resources
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.AssemblyInfoInputs.cache
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.AssemblyInfo.cs
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.csproj.Up2Date
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.dll
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\refint\WpfApp2.dll
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.pdb
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\WpfApp2.genruntimeconfig.cache
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\ref\WpfApp2.dll
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\HelpDesk.g.cs
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\HelpDesk.baml
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\ProgressStatus.g.cs
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\ProgressStatus.baml
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\Sales.g.cs
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\Sales.baml
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\ProductDetailPage.baml
+C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\WpfApp2\obj\Debug\net8.0-windows\ProductDetailPage.g.cs

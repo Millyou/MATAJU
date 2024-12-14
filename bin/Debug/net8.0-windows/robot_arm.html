@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Robot Arm (FBX)</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/examples/js/loaders/FBXLoader.js"></script>
+</head>
+<body>
+    <script>
+        // Three.js 기본 설정
+        const scene = new THREE.Scene();
+        const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+        const renderer = new THREE.WebGLRenderer();
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        document.body.appendChild(renderer.domElement);
+
+        // 조명 추가
+        const light = new THREE.PointLight(0xffffff, 1, 100);
+        light.position.set(10, 10, 10);
+        scene.add(light);
+
+        // FBX 로더로 로봇 팔 로드
+        let robotArm; // FBX 모델을 저장
+        const loader = new THREE.FBXLoader();
+        loader.load('robot_arm.fbx', function (object) {
+            robotArm = object;
+            robotArm.position.set(0, 0, 0); // 초기 위치
+            robotArm.rotation.set(0, 0, 0); // 초기 회전
+            scene.add(robotArm);
+        }, undefined, function (error) {
+            console.error('FBX 파일 로드 실패:', error);
+        });
+
+        // 카메라 위치 설정
+        camera.position.z = 10;
+
+        // WPF에서 제어 가능한 함수 추가
+        window.rotateModel = (x, y, z) => {
+            if (robotArm) {
+                robotArm.rotation.x = x;
+                robotArm.rotation.y = y;
+                robotArm.rotation.z = z;
+            }
+        };
+
+        // 애니메이션 루프
+        function animate() {
+            requestAnimationFrame(animate);
+            renderer.render(scene, camera);
+        }
+        animate();
+    </script>
+</body>
+</html>
