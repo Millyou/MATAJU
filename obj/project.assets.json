@@ -3227,11 +3227,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\신종덕\\OneDrive\\바탕 화면\\프로젝트\\Mataju\\Matau.csproj",
+      "projectUniqueName": "C:\\Users\\신종덕\\OneDrive\\바탕 화면\\Procject\\Mataju\\Mataju\\Matau.csproj",
       "projectName": "Matau",
-      "projectPath": "C:\\Users\\신종덕\\OneDrive\\바탕 화면\\프로젝트\\Mataju\\Matau.csproj",
+      "projectPath": "C:\\Users\\신종덕\\OneDrive\\바탕 화면\\Procject\\Mataju\\Mataju\\Matau.csproj",
       "packagesPath": "C:\\Users\\신종덕\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\신종덕\\OneDrive\\바탕 화면\\프로젝트\\Mataju\\obj\\",
+      "outputPath": "C:\\Users\\신종덕\\OneDrive\\바탕 화면\\Procject\\Mataju\\Mataju\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
