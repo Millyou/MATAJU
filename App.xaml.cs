@@ -14,11 +14,11 @@ namespace WpfApp2
 
     public static class IpAdd
     {
-        public static string IP = "http://13.125.200.19/dev/";
+        public static string IP = "http://3.38.45.83/";
 
 
     }
-
+    
     public static class ApiProduct
     {
         public static int? Id { get; set; }

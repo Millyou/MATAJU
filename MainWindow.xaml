@@ -57,7 +57,7 @@
             <!-- Frame for navigation -->
             <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" />
 
-            <!-- 이미지 -->
+       
 
         </Grid>
         <TextBlock x:Name="userName" Text="{Binding ID, UpdateSourceTrigger=PropertyChanged}" 

@@ -1,6 +1,5 @@
 ﻿using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Media.Imaging;
 
 namespace WpfApp2
 {
@@ -14,7 +13,6 @@ namespace WpfApp2
             _product = product;
 
             // 상품 정보 설정
-            ProductImage.Source = new BitmapImage(new Uri(_product.ImageUrl ?? string.Empty));
             ProductAddress.Text = _product.Address;
         }
 
@@ -24,11 +22,7 @@ namespace WpfApp2
 
             MainFrame.Navigate(new Uri("Sales.xaml", UriKind.Relative));
 
-
-
             ProductAddress.Text = "";
-
-
         }
     }
 }

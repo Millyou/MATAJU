@@ -66,19 +66,21 @@ namespace WpfApp2
 
                     if (cityInfos != null && cityInfos.Count > 0)
                     {
+                        ApiProduct.Products = cityInfos;
+
                         var message = new StringBuilder();
                         foreach (var city in cityInfos)
                         {
                             message.AppendLine(
-                                $"ID: {ApiProduct.Id}, 주소: {ApiProduct.Add}, 도시: {ApiProduct.Province}, " +
-                                $"소형 가격: {ApiProduct.PriceS}, 중형 가격: {ApiProduct.PriceM}, 대형 가격: {ApiProduct.PriceL}"
+                                $"ID: {city.Id}, 주소: {city.Add}, 도시: {city.Province}, " +
+                                $"소형 가격: {city.PriceS}, 중형 가격: {city.PriceM}, 대형 가격: {city.PriceL}"
                             );
                         }
 
                         MessageBox.Show(message.ToString(), "데이터 수신 성공", MessageBoxButton.OK, MessageBoxImage.Information);
-
                         MainFrame.Navigate(new Uri("Sales.xaml", UriKind.Relative));
                     }
+
                     else
                     {
                         MessageBox.Show("받아온 데이터가 없습니다.", "정보", MessageBoxButton.OK, MessageBoxImage.Information);
