@@ -101,6 +101,7 @@ namespace WpfApp2
             public int? PriceS { get; set; } // 소형 가격
             public int? PriceM { get; set; } // 중형 가격
             public int? PriceL { get; set; } // 대형 가격
+            public int? test { get; set; } // 대형 가격 test
         }
 
     }
