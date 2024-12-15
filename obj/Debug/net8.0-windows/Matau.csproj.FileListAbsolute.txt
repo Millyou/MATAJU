@@ -99,3 +99,83 @@ C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\Mataju\bin\Debug\net8.0-w
 C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\Mataju\obj\Debug\net8.0-windows\Matau.csproj.GenerateResource.cache
 C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\Mataju\bin\Debug\net8.0-windows\Properties\resource\loginb.mp4
 C:\Users\신종덕\OneDrive\바탕 화면\프로젝트\Mataju\obj\Debug\net8.0-windows\Matau.Properties.Resources.resources
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau.csproj.AssemblyReference.cache
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Loginwin.baml
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\ProductDetailPage.baml
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Sales.baml
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Signwin.baml
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\HelpDesk.g.cs
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\home_page.g.cs
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Loginwin.g.cs
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\ProductDetailPage.g.cs
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\ProgressStatus.g.cs
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Sales.g.cs
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Signwin.g.cs
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau_Content.g.cs
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau_MarkupCompile.cache
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau_MarkupCompile.lref
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\HelpDesk.baml
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\home_page.baml
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\ProgressStatus.baml
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau.g.resources
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau.csproj.GenerateResource.cache
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\refint\Matau.dll
+C:\Users\신종덕\OneDrive\바탕 화면\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau.pdb
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau.csproj.AssemblyReference.cache
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Loginwin.baml
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\ProductDetailPage.baml
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Sales.baml
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Signwin.baml
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\HelpDesk.g.cs
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\home_page.g.cs
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Loginwin.g.cs
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\ProductDetailPage.g.cs
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\ProgressStatus.g.cs
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Sales.g.cs
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Signwin.g.cs
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\App.g.cs
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau_Content.g.cs
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau_MarkupCompile.cache
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau_MarkupCompile.lref
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\HelpDesk.baml
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\home_page.baml
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\ProgressStatus.baml
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau.g.resources
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau.csproj.GenerateResource.cache
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\refint\Matau.dll
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau.pdb
+C:\Procject\Mataju\Mataju\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Procject\Mataju\Mataju\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Procject\Mataju\Mataju\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Procject\Mataju\Mataju\bin\Debug\net8.0-windows\Matau.exe
+C:\Procject\Mataju\Mataju\bin\Debug\net8.0-windows\Properties\resource\loginb.mp4
+C:\Procject\Mataju\Mataju\bin\Debug\net8.0-windows\Matau.dll.config
+C:\Procject\Mataju\Mataju\bin\Debug\net8.0-windows\Matau.deps.json
+C:\Procject\Mataju\Mataju\bin\Debug\net8.0-windows\Matau.runtimeconfig.json
+C:\Procject\Mataju\Mataju\bin\Debug\net8.0-windows\Matau.dll
+C:\Procject\Mataju\Mataju\bin\Debug\net8.0-windows\Matau.pdb
+C:\Procject\Mataju\Mataju\bin\Debug\net8.0-windows\System.Net.Http.Formatting.dll
+C:\Procject\Mataju\Mataju\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Procject\Mataju\Mataju\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Procject\Mataju\Mataju\bin\Debug\net8.0-windows\SlackAPI.dll
+C:\Procject\Mataju\Mataju\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Procject\Mataju\Mataju\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Procject\Mataju\Mataju\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Procject\Mataju\Mataju\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Procject\Mataju\Mataju\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Procject\Mataju\Mataju\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau.Properties.Resources.resources
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau.AssemblyInfoInputs.cache
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau.AssemblyInfo.cs
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau.csproj.CoreCompileInputs.cache
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau.sourcelink.json
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau.csproj.Up2Date
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau.dll
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\Matau.genruntimeconfig.cache
+C:\Procject\Mataju\Mataju\obj\Debug\net8.0-windows\ref\Matau.dll

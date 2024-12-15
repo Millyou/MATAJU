@@ -25,7 +25,7 @@ namespace WpfApp2
             MainFrame.Navigate(new Uri("Sales.xaml", UriKind.Relative));
 
 
-            
+
             ProductAddress.Text = "";
 
 

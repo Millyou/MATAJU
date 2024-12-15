@@ -92,7 +92,7 @@ namespace WpfApp2 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Matau;V1.0.0.0;component/loginwin.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Matau;component/loginwin.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Loginwin.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

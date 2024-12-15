@@ -74,7 +74,7 @@ namespace WpfApp2
                 using (HttpClient httpClient = new HttpClient())
                 {
 
-                    httpClient.BaseAddress = new Uri("http://3.38.255.138/dev/");
+                    httpClient.BaseAddress = new Uri(IpAdd.IP);
 
 
                     try

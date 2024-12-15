@@ -32,6 +32,51 @@
     <None Remove="pictures\sns3.png" />
     <None Remove="Properties\resource\loginb.mp4" />
     <None Remove="Properties\resource\video.mp4" />
+    <None Remove="Resources\01-1.jpeg" />
+    <None Remove="Resources\01-2.jpeg" />
+    <None Remove="Resources\01-3.jpeg" />
+    <None Remove="Resources\02-1.jpeg" />
+    <None Remove="Resources\02-2.jpeg" />
+    <None Remove="Resources\02-3.jpeg" />
+    <None Remove="Resources\03-1.jpeg" />
+    <None Remove="Resources\03-2.jpeg" />
+    <None Remove="Resources\03-3.jpeg" />
+    <None Remove="Resources\04-1.png" />
+    <None Remove="Resources\04-2.jpeg" />
+    <None Remove="Resources\04-3.jpeg" />
+    <None Remove="Resources\05-1.jpeg" />
+    <None Remove="Resources\05-2.jpeg" />
+    <None Remove="Resources\05-3.jpeg" />
+    <None Remove="Resources\06-1.jpeg" />
+    <None Remove="Resources\06-2.jpeg" />
+    <None Remove="Resources\06-3.jpeg" />
+    <None Remove="Resources\07-1.jpeg" />
+    <None Remove="Resources\07-2.jpeg" />
+    <None Remove="Resources\07-3.jpeg" />
+    <None Remove="Resources\08-1.jpeg" />
+    <None Remove="Resources\08-2.jpeg" />
+    <None Remove="Resources\08-3.png" />
+    <None Remove="Resources\09-1.jpeg" />
+    <None Remove="Resources\09-2.jpeg" />
+    <None Remove="Resources\09-3.jpeg" />
+    <None Remove="Resources\10-1.jpeg" />
+    <None Remove="Resources\10-2.jpeg" />
+    <None Remove="Resources\10-3.jpeg" />
+    <None Remove="Resources\11-1.jpeg" />
+    <None Remove="Resources\11-2.jpeg" />
+    <None Remove="Resources\11-3.jpeg" />
+    <None Remove="Resources\12-1.jpeg" />
+    <None Remove="Resources\12-2.jpeg" />
+    <None Remove="Resources\12-3.jpeg" />
+    <None Remove="Resources\13-1.jpeg" />
+    <None Remove="Resources\13-2.jpeg" />
+    <None Remove="Resources\13-3.png" />
+    <None Remove="Resources\14-1.jpeg" />
+    <None Remove="Resources\14-2.jpeg" />
+    <None Remove="Resources\14-3.png" />
+    <None Remove="Resources\15-1.jpeg" />
+    <None Remove="Resources\15-2.jpeg" />
+    <None Remove="Resources\15-3.jpeg" />
     <None Remove="resource\loginb.mp4" />
   </ItemGroup>
 
@@ -106,6 +151,141 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
     <Resource Include="Properties\resource\video.mp4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\01-1.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\01-2.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\01-3.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\02-1.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\02-2.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\02-3.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\03-1.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\03-2.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\03-3.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\04-1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\04-2.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\04-3.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\05-1.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\05-2.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\05-3.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\06-1.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\06-2.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\06-3.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\07-1.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\07-2.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\07-3.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\08-1.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\08-2.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\08-3.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\09-1.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\09-2.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\09-3.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\10-1.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\10-2.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\10-3.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\11-1.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\11-2.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\11-3.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\12-1.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\12-2.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\12-3.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\13-1.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\13-2.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\13-3.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\14-1.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\14-2.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\14-3.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\15-1.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\15-2.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\15-3.jpeg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
     <Resource Include="resource\loginb.mp4">

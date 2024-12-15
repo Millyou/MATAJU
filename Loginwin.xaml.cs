@@ -19,8 +19,8 @@ namespace WpfApp2
         {
             InitializeComponent();
         }
-        
-        
+
+
         // 로그인 버튼 클릭 이벤트
         private async void loginBtn_Click(object sender, RoutedEventArgs e)
         {
@@ -28,7 +28,7 @@ namespace WpfApp2
             ApiToken.UserId = nameText.Text;
             ApiToken.UserPw = pwText.Password;
 
-            using var httpClient = new HttpClient { BaseAddress = new Uri("http://3.38.255.138/dev/") };
+            using var httpClient = new HttpClient { BaseAddress = new Uri(IpAdd.IP) };
 
             try
             {
